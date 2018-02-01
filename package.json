@@ -1,0 +1,22 @@
+{
+  "name": "primeiro-web",
+  "version": "1.0.0",
+  "description": "Estudos com nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azevedomello/primeiro-web.git"
+  },
+  "author": "Diego Mello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azevedomello/primeiro-web/issues"
+  },
+  "homepage": "https://github.com/azevedomello/primeiro-web#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
