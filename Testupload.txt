@@ -1,0 +1,2 @@
+Testando apenas uploads de arquivos no git
+w
